@@ -4,9 +4,25 @@
 
 
 ## Overview
-```
-This project involves creating a 3D representation of landscapes using the MiniLibX library, developed internally for basic graphics programming. This project provides an opportunity to learn and apply graphics programming fundamentals, focusing on spatial point placement, connecting these points, and rendering scenes from specific viewpoints.
-```
+
+
+This project involves creating a 3D representation of landscapes using the MiniLibX library, developed internally for basic graphics programming. This project provides an
+
+opportunity to learn and apply graphics programming fundamentals, focusing on spatial point placement, connecting these points, and rendering scenes from specific viewpoints.
+
+## Display
+
+### This is the input map
+
+<img src = "img/map42_img.png" height="100">
+
+### This is the output
+
+<video src="img/fFdf_video.mp4" controls>
+  Your browser does not support the video tag.
+</video>
+
+
 ## Objectives
 
 ```
